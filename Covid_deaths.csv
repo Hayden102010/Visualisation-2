@@ -1,0 +1,451 @@
+Country,Deaths,type,population
+Afghanistan,7174,Mortality,36296111
+Albania,2553,Mortality,2873457
+Algeria,5614,Mortality,41389174
+Andorra,130,Mortality,76997
+Angola,1358,Mortality,29816769
+Anguilla,0,Mortality,29816769
+Antigua and Barbuda,48,Mortality,95425
+Argentina,113816,Mortality,44044811
+Armenia,5056,Mortality,2944789
+Aruba,156,Mortality,105361
+Australia,1116,Mortality,24601860
+Austria,10849,Mortality,8797566
+Azerbaijan,6167,Mortality,9854033
+Bahamas,463,Mortality,9854033
+Bahrain,1388,Mortality,1494077
+Bangladesh,27007,Mortality,159685421
+Barbados,52,Mortality,286229
+Belarus,3941,Mortality,9498264
+Belgium,25477,Mortality,11375158
+Belize,383,Mortality,375775
+Benin,146,Mortality,11175192
+Bermuda,36,Mortality,63873
+Bhutan,3,Mortality,745563
+Bolivia,18603,Mortality,11192853
+Bosnia and Herzegovina,10099,Mortality,3351534
+Botswana,2337,Mortality,2205076
+Brazil,587847,Mortality,207833825
+British Virgin Islands,37,Mortality,29567
+Brunei,21,Mortality,29567
+Bulgaria,19744,Mortality,7075947
+Burkina Faso,171,Mortality,19193236
+Burundi,38,Mortality,10827010
+Cabo Verde,323,Mortality,537499
+Cambodia,2067,Mortality,16009413
+Cameroon,1357,Mortality,24566070
+Canada,27262,Mortality,36545295
+Caribbean Netherlands,17,Mortality,36545295
+Cayman Islands,2,Mortality,63382
+Central African Rep.,100,Mortality,63382
+Chad,174,Mortality,15016761
+Channel Islands,96,Mortality,168666
+Chile,37253,Mortality,18470435
+China,4636,Mortality,1386395000
+Colombia,125713,Mortality,48909844
+Comoros,147,Mortality,813890
+Congo,183,Mortality,813890
+Costa Rica,5851,Mortality,4949955
+Côte d'Ivoire,534,Mortality,10827010
+Croatia,8456,Mortality,4124531
+Cuba,6449,Mortality,11339255
+Curaçao,155,Mortality,11339255
+Cyprus,534,Mortality,1179685
+Czechia,30417,Mortality,10594438
+Dem. Rep. Congo,1068,Mortality,10594438
+Denmark,2614,Mortality,5764980
+Diamond Princess,13,Mortality,5764980
+Djibouti,157,Mortality,944100
+Dominica,8,Mortality,71460
+Dominican Republic,4020,Mortality,10513111
+Ecuador,32491,Mortality,16785356
+Egypt,16895,Mortality,16785356
+El Salvador,3056,Mortality,6388124
+Equatorial Guinea,131,Mortality,1262008
+Eritrea,40,Mortality,0
+Estonia,1313,Mortality,1317384
+Eswatini,1186,Mortality,1124808
+Ethiopia,5001,Mortality,106399926
+Faeroe Islands,2,Mortality,446186344
+Falkland Islands,0,Mortality,446186344
+Fiji,539,Mortality,877460
+Finland,1039,Mortality,5508214
+France,115697,Mortality,66918020
+French Guiana,231,Mortality,66918020
+French Polynesia,581,Mortality,276108
+Gabon,173,Mortality,2064812
+Gambia,328,Mortality,2064812
+Georgia,8347,Mortality,3728004
+Germany,93319,Mortality,82657002
+Ghana,1098,Mortality,29121464
+Gibraltar,97,Mortality,33723
+Greece,14268,Mortality,10754679
+Greenland,0,Mortality,56172
+Grenada,35,Mortality,110874
+Guadeloupe,612,Mortality,110874
+Guatemala,12795,Mortality,16087418
+Guinea,368,Mortality,12067516
+Guinea-Bissau,127,Mortality,1828146
+Guyana,692,Mortality,775218
+Haiti,596,Mortality,10982367
+Honduras,9400,Mortality,9429016
+Hong Kong,213,Mortality,9429016
+Hungary,30114,Mortality,9787966
+Iceland,33,Mortality,343400
+India,443528,Mortality,1338676779
+Indonesia,139415,Mortality,264650969
+Iran,115167,Mortality,264650969
+Iraq,21596,Mortality,37552789
+Ireland,5155,Mortality,4807388
+Isle of Man,38,Mortality,83610
+Israel,7438,Mortality,8713300
+Italy,130027,Mortality,60536709
+Jamaica,1736,Mortality,2920848
+Japan,16846,Mortality,126785797
+Jordan,10568,Mortality,9785840
+Kazakhstan,10491,Mortality,18037776
+Kenya,4928,Mortality,50221146
+Kuwait,2434,Mortality,4056102
+Kyrgyzstan,2578,Mortality,6198200
+Laos,16,Mortality,6953031
+Latvia,2621,Mortality,1942248
+Lebanon,8210,Mortality,6819373
+Lesotho,403,Mortality,2091532
+Liberia,283,Mortality,4702224
+Libya,4457,Mortality,6580723
+Liechtenstein,60,Mortality,37805
+Lithuania,4740,Mortality,2828403
+Luxembourg,834,Mortality,596336
+Macao,0,Mortality,596336
+Madagascar,958,Mortality,25570511
+Malawi,2244,Mortality,17670193
+Malaysia,21587,Mortality,31104655
+Maldives,227,Mortality,496398
+Mali,543,Mortality,18512429
+Malta,449,Mortality,467999
+Marshall Islands,0,Mortality,58053
+Martinique,509,Mortality,58053
+Mauritania,760,Mortality,4282582
+Mauritius,45,Mortality,1264613
+Mayotte,176,Mortality,1264613
+Mexico,269015,Mortality,124777326
+Micronesia,0,Mortality,124777326
+Moldova,6548,Mortality,2755158
+Monaco,33,Mortality,38392
+Mongolia,1066,Mortality,3113788
+Montenegro,1813,Mortality,622373
+Montserrat,1,Mortality,622373
+Morocco,13683,Mortality,35581257
+Mozambique,1895,Mortality,28649007
+MS Zaandam,2,Mortality,28649007
+Myanmar,16693,Mortality,53382521
+Namibia,3437,Mortality,2402623
+Nepal,10984,Mortality,27632682
+Netherlands,18083,Mortality,17131296
+New Caledonia,4,Mortality,270000
+New Zealand,27,Mortality,4813600
+Nicaragua,202,Mortality,6384843
+Niger,201,Mortality,21602388
+Nigeria,2637,Mortality,190873247
+North Macedonia,6307,Mortality,2081996
+North Korea,0,Mortality,361731296
+Norway,829,Mortality,5276968
+Oman,4090,Mortality,4665926
+Pakistan,26938,Mortality,207906210
+Palau,0,Mortality,17809
+Palestine,3837,Mortality,17809
+Panama,7152,Mortality,4106764
+Papua New Guinea,204,Mortality,8438038
+Paraguay,16114,Mortality,6867058
+Peru,198840,Mortality,31444299
+Philippines,35529,Mortality,105172921
+Poland,75433,Mortality,37974826
+Portugal,17872,Mortality,10300300
+Qatar,604,Mortality,2724727
+Réunion,358,Mortality,2724727
+Romania,35132,Mortality,19588715
+Russia,194249,Mortality,19588715
+Rwanda,1180,Mortality,11980960
+South Korea,2380,Mortality,1792883164
+S. Sudan,121,Mortality,11980960
+Saint Helena,0,Mortality,11980960
+Saint Kitts and Nevis,8,Mortality,11980960
+Saint Lucia,132,Mortality,11980960
+Saint Martin,45,Mortality,11980960
+Saint Pierre Miquelon,,Mortality,11980960
+Samoa,0,Mortality,195358
+San Marino,90,Mortality,33671
+Sao Tome and Principe,42,Mortality,207086
+Saudi Arabia,8633,Mortality,33101183
+Senegal,1837,Mortality,15419354
+Serbia,7601,Mortality,7020858
+Seychelles,110,Mortality,95843
+Sierra Leone,121,Mortality,7488427
+Singapore,58,Mortality,5612253
+Sint Maarten,58,Mortality,5612253
+Slovakia,12562,Mortality,5439232
+Slovenia,4473,Mortality,2066388
+Solomon Islands,0,Mortality,636030
+Somalia,1032,Mortality,14589165
+South Africa,85302,Mortality,57009751
+Spain,85548,Mortality,46593236
+Sri Lanka,11567,Mortality,21444000
+St. Barth,2,Mortality,21444000
+St. Vincent Grenadines,13,Mortality,109826
+Sudan,2873,Mortality,40813398
+Suriname,773,Mortality,570501
+Sweden,14688,Mortality,10057698
+Switzerland,11010,Mortality,8451840
+Syria,2090,Mortality,8451840
+Taiwan,839,Mortality,17095669
+Tajikistan,124,Mortality,8880270
+Tanzania,50,Mortality,54660345
+Thailand,14765,Mortality,69209817
+Timor-Leste,98,Mortality,1243260
+Togo,208,Mortality,7698476
+Trinidad and Tobago,1386,Mortality,1384060
+Tunisia,24274,Mortality,11433438
+Turkey,60393,Mortality,81116451
+Turkmenistan,0,Mortality,5757667
+Turks and Caicos,21,Mortality,5757667
+Uganda,3103,Mortality,41166588
+Ukraine,54550,Mortality,44831135
+United Arab Emirates,2066,Mortality,9487206
+United Kingdom,134446,Mortality,66058859
+United States of America,682341,Mortality,325122128
+Uruguay,6044,Mortality,3436645
+Uzbekistan,1169,Mortality,32388600
+Vanuatu,1,Mortality,285499
+Vatican City,0,Mortality,285499
+Venezuela,4228,Mortality,285499
+Vietnam,15936,Mortality,94600643
+Wallis and Futuna,7,Mortality,107281
+W. Sahara,1,Mortality,107281
+Yemen,1608,Mortality,7509410228
+Zambia,3635,Mortality,16853608
+Zimbabwe,4550,Mortality,14236599
+Afghanistan,154800,Incidence,36296111
+Albania,165096,Incidence,2873457
+Algeria,201766,Incidence,41389174
+Andorra,15153,Incidence,76997
+Angola,52644,Incidence,29816769
+Anguilla,350,Incidence,29816769
+Antigua and Barbuda,2603,Incidence,95425
+Argentina,5243231,Incidence,44044811
+Armenia,255648,Incidence,2944789
+Aruba,15305,Incidence,105361
+Australia,90372,Incidence,24601860
+Austria,725163,Incidence,8797566
+Azerbaijan,476409,Incidence,9854033
+Bahamas,20288,Incidence,9854033
+Bahrain,274524,Incidence,1494077
+Bangladesh,1548320,Incidence,159685421
+Barbados,6736,Incidence,286229
+Belarus,522275,Incidence,9498264
+Belgium,1229236,Incidence,11375158
+Belize,18902,Incidence,375775
+Benin,21450,Incidence,11175192
+Bermuda,4632,Incidence,63873
+Bhutan,2599,Incidence,745563
+Bolivia,2599,Incidence,11192853
+Bosnia and Herzegovina,229360,Incidence,3351534
+Botswana,173788,Incidence,2205076
+Brazil,21247094,Incidence,207833825
+British Virgin Islands,2676,Incidence,29567
+Brunei,2676,Incidence,29567
+Bulgaria,487588,Incidence,7075947
+Burkina Faso,14064,Incidence,19193236
+Burundi,16356,Incidence,10827010
+Cabo Verde,37157,Incidence,537499
+Cambodia,105981,Incidence,16009413
+Cameroon,85414,Incidence,24566070
+Canada,1585732,Incidence,36545295
+Caribbean Netherlands,1585732,Incidence,36545295
+Cayman Islands,787,Incidence,63382
+Central African Rep.,787,Incidence,63382
+Chad,5031,Incidence,15016761
+Channel Islands,5031,Incidence,168666
+Chile,1648550,Incidence,18470435
+China,124283,Incidence,1386395000
+Colombia,4943622,Incidence,48909844
+Comoros,4109,Incidence,813890
+Congo,14014,Incidence,813890
+Costa Rica,513384,Incidence,4949955
+Côte d'Ivoire,16356,Incidence,10827010
+Croatia,396470,Incidence,4124531
+Cuba,825351,Incidence,11339255
+Curaçao,825351,Incidence,11339255
+Cyprus,119336,Incidence,1179685
+Czechia,1687973,Incidence,10594438
+Dem. Rep. Congo,1687973,Incidence,10594438
+Denmark,355603,Incidence,5764980
+Diamond Princess,355603,Incidence,5764980
+Djibouti,12207,Incidence,944100
+Dominica,3134,Incidence,71460
+Dominican Republic,356042,Incidence,10513111
+Ecuador,507020,Incidence,16785356
+Egypt,298988,Incidence,16785356
+El Salvador,102024,Incidence,6388124
+Equatorial Guinea,11063,Incidence,1262008
+Eritrea,6674,Incidence,0
+Estonia,151881,Incidence,1317384
+Eswatini,45395,Incidence,1124808
+Ethiopia,333698,Incidence,106399926
+Faeroe Islands,333698,Incidence,446186344
+Falkland Islands,333698,Incidence,446186344
+Fiji,50270,Incidence,877460
+Finland,138068,Incidence,5508214
+France,6760265,Incidence,66918020
+French Guiana,39239,Incidence,66918020
+French Polynesia,44612,Incidence,276108
+Gabon,28120,Incidence,2064812
+Gambia,9888,Incidence,2064812
+Georgia,602065,Incidence,3728004
+Germany,4171666,Incidence,82657002
+Ghana,125565,Incidence,29121464
+Gibraltar,5490,Incidence,33723
+Greece,638921,Incidence,10754679
+Greenland,528,Incidence,56172
+Grenada,4356,Incidence,110874
+Guadeloupe,52463,Incidence,110874
+Guatemala,533744,Incidence,16087418
+Guinea,30271,Incidence,12067516
+Guinea-Bissau,6080,Incidence,1828146
+Guyana,29824,Incidence,775218
+Haiti,21453,Incidence,10982367
+Honduras,360598,Incidence,9429016
+Hong Kong,360598,Incidence,9429016
+Hungary,819547,Incidence,9787966
+Iceland,11594,Incidence,343400
+India,33563421,Incidence,1338676779
+Indonesia,4201559,Incidence,264650969
+Iran,4201559,Incidence,264650969
+Iraq,1984399,Incidence,37552789
+Ireland,379366,Incidence,4807388
+Isle of Man,7265,Incidence,83610
+Israel,1249328,Incidence,8713300
+Italy,4645853,Incidence,60536709
+Jamaica,80959,Incidence,2920848
+Japan,1683965,Incidence,126785797
+Jordan,816574,Incidence,9785840
+Kazakhstan,944733,Incidence,18037776
+Kenya,246643,Incidence,50221146
+Kuwait,411316,Incidence,4056102
+Kyrgyzstan,178036,Incidence,6198200
+Laos,19952,Incidence,6953031
+Latvia,152693,Incidence,1942248
+Lebanon,619950,Incidence,6819373
+Lesotho,14395,Incidence,2091532
+Liberia,5915,Incidence,4702224
+Libya,334049,Incidence,6580723
+Liechtenstein,3545,Incidence,37805
+Lithuania,321243,Incidence,2828403
+Luxembourg,77552,Incidence,596336
+Macao,77552,Incidence,596336
+Madagascar,43570,Incidence,25570511
+Malawi,61382,Incidence,17670193
+Malaysia,2142924,Incidence,31104655
+Maldives,84017,Incidence,496398
+Mali,15075,Incidence,18512429
+Malta,37036,Incidence,467999
+Marshall Islands,4,Incidence,58053
+Martinique,40685,Incidence,58053
+Mauritania,35515,Incidence,4282582
+Mauritius,14863,Incidence,1264613
+Mayotte,20205,Incidence,1264613
+Mexico,3585565,Incidence,124777326
+Micronesia,3585565,Incidence,124777326
+Moldova,0,Incidence,2755158
+Monaco,3299,Incidence,38392
+Mongolia,287512,Incidence,3113788
+Montenegro,127883,Incidence,622373
+Montserrat,33,Incidence,622373
+Morocco,923924,Incidence,35581257
+Mozambique,150067,Incidence,28649007
+MS Zaandam,150067,Incidence,28649007
+Myanmar,453407,Incidence,53382521
+Namibia,126900,Incidence,2402623
+Nepal,788769,Incidence,27632682
+Netherlands,1989805,Incidence,17131296
+New Caledonia,4727,Incidence,270000
+New Zealand,3779,Incidence,4813600
+Nicaragua,10757,Incidence,6384843
+Niger,5964,Incidence,21602388
+Nigeria,202191,Incidence,190873247
+North Macedonia,188113,Incidence,2081996
+North Korea,0,Incidence,361731296
+Norway,184609,Incidence,5276968
+Oman,303512,Incidence,4665926
+Pakistan,1230238,Incidence,207906210
+Palau,5,Incidence,17809
+Palestine,5,Incidence,17809
+Panama,464781,Incidence,4106764
+Papua New Guinea,19182,Incidence,8438038
+Paraguay,459695,Incidence,6867058
+Peru,2168431,Incidence,31444299
+Philippines,2417419,Incidence,105172921
+Poland,2900862,Incidence,37974826
+Portugal,1064025,Incidence,10300300
+Qatar,235907,Incidence,2724727
+Réunion,235907,Incidence,2724727
+Romania,1172981,Incidence,19588715
+Russia,1172981,Incidence,19588715
+Rwanda,95503,Incidence,11980960
+South Korea,2884134,Incidence,1792883164
+S. Sudan,95503,Incidence,11980960
+Saint Helena,0,Incidence,11980960
+Saint Kitts and Nevis,1718,Incidence,11980960
+Saint Lucia,10727,Incidence,11980960
+Saint Martin,3740,Incidence,11980960
+Saint Pierre Miquelon,31,Incidence,11980960
+Samoa,1,Incidence,195358
+San Marino,5426,Incidence,33671
+Sao Tome and Principe,3097,Incidence,207086
+Saudi Arabia,546735,Incidence,33101183
+Senegal,73654,Incidence,15419354
+Serbia,886543,Incidence,7020858
+Seychelles,21180,Incidence,95843
+Sierra Leone,6388,Incidence,7488427
+Singapore,81356,Incidence,5612253
+Sint Maarten,4146,Incidence,5612253
+Slovakia,405931,Incidence,5439232
+Slovenia,286267,Incidence,2066388
+Solomon Islands,20,Incidence,636030
+Somalia,19234,Incidence,14589165
+South Africa,2884134,Incidence,57009751
+Spain,4940824,Incidence,46593236
+Sri Lanka,508672,Incidence,21444000
+St. Barth,508672,Incidence,21444000
+St. Vincent Grenadines,508672,Incidence,109826
+Sudan,38077,Incidence,40813398
+Suriname,38137,Incidence,570501
+Sweden,1147879,Incidence,10057698
+Switzerland,826706,Incidence,8451840
+Syria,826706,Incidence,8451840
+Taiwan,31426,Incidence,17095669
+Tajikistan,17484,Incidence,8880270
+Tanzania,17484,Incidence,54660345
+Thailand,1524613,Incidence,69209817
+Timor-Leste,19264,Incidence,1243260
+Togo,24655,Incidence,7698476
+Trinidad and Tobago,48826,Incidence,1384060
+Tunisia,702503,Incidence,11433438
+Turkey,6932453,Incidence,81116451
+Turkmenistan,0,Incidence,5757667
+Turks and Caicos,0,Incidence,5757667
+Uganda,122405,Incidence,41166588
+Ukraine,2370425,Incidence,44831135
+United Arab Emirates,733643,Incidence,9487206
+United Kingdom,733643,Incidence,66058859
+United States of America,42163561,Incidence,325122128
+Uruguay,387922,Incidence,3436645
+Uzbekistan,170520,Incidence,32388600
+Vanuatu,3,Incidence,285499
+Vatican City,3,Incidence,285499
+Venezuela,3,Incidence,285499
+Vietnam,718963,Incidence,94600643
+Wallis and Futuna,454,Incidence,107281
+W. Sahara,718963,Incidence,107281
+Yemen,8789,Incidence,7509410228
+Zambia,208502,Incidence,16853608
+Zimbabwe,128186,Incidence,14236599

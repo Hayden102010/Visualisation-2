@@ -1,0 +1,463 @@
+Country,type,Incidence,Population,HDI,Temperature
+Afghanistan,Covid,154800,36296111,0.498,13.57
+Albania,Covid,165096,2873457,0.785,12.03
+Algeria,Covid,201766,41389174,0.754,23.22
+American Samoa,Covid,201766,55617,0.754,23.22
+Andean Latin America,Covid,201766,55617,0.754,23.22
+Andorra,Covid,15153,76997,0.858,9.18
+Angola,Covid,52644,29816769,0.581,21.83
+Antigua and Barbuda,Covid,2603,95425,0.78,26.61
+Argentina,Covid,5243231,44044811,0.825,14.55
+Armenia,Covid,255648,2944789,0.755,7.15
+Australasia,Covid,15305,105361,0.755,7.15
+Australia,Covid,90372,24601860,0.939,21.94
+Austria,Covid,725163,8797566,0.908,7.25
+Azerbaijan,Covid,476409,9854033,0.757,12.93
+Bahamas,Covid,20288,9854033,0.807,25.06
+Bahrain,Covid,274524,1494077,0.846,28.23
+Bangladesh,Covid,1548320,159685421,0.608,25.53
+Barbados,Covid,6736,286229,0.8,26.73
+Belarus,Covid,522275,9498264,0.808,7.5
+Belgium,Covid,1229236,11375158,0.916,10.68
+Belize,Covid,18902,375775,0.708,25.59
+Benin,Covid,21450,11175192,0.515,27.93
+Bermuda,Covid,4632,63873,0.515,27.93
+Bhutan,Covid,2599,745563,0.612,11.98
+Bolivia,Covid,2599,11192853,0.693,11.98
+Bosnia and Herzegovina,Covid,229360,3351534,0.768,10.24
+Botswana,Covid,173788,2205076,0.717,22.22
+Brazil,Covid,21247094,207833825,0.759,25.51
+Brunei,Covid,2676,29567,0.853,25.51
+Bulgaria,Covid,487588,7075947,0.813,11.31
+Burkina Faso,Covid,14064,19193236,0.423,28.71
+Burundi,Covid,16356,10827010,0.417,20.68
+Cambodia,Covid,105981,16009413,0.582,27.51
+Cameroon,Covid,85414,24566070,0.556,24.87
+Canada,Covid,1585732,36545295,0.926,-6.36
+Cape Verde,Covid,1585732,36545295,0.654,-6.36
+Caribbean,Covid,1585732,36545295,0.654,-6.36
+Central African Rep.,Covid,787,63382,0.654,-6.36
+Central Asia,Covid,787,4596023,0.367,25.31
+Central Europe,Covid,787,4596023,0.367,25.31
+"Central Europe, Eastern Europe, and Central Asia",Covid,787,102740078,0.367,25.31
+Central Latin America,Covid,787,102740078,0.367,25.31
+Central Sub-Saharan Africa,Covid,787,102740078,0.367,25.31
+Chad,Covid,5031,15016761,0.404,27.37
+Chile,Covid,1648550,18470435,0.843,8.71
+China,Covid,124283,1386395000,0.752,7.1
+Colombia,Covid,4943622,48909844,0.747,24.79
+Comoros,Covid,4109,813890,0.503,24.52
+Congo,Covid,14014,813890,0.606,24.85
+Costa Rica,Covid,513384,4949955,0.794,24.85
+Cote d'Ivoire,Covid,16356,24437475,0.492,26.76
+Croatia,Covid,396470,4124531,0.831,11.66
+Cuba,Covid,825351,11339255,0.777,25.83
+Cyprus,Covid,119336,1179685,0.869,19.63
+Czechia,Covid,1687973,10594438,0.888,8.73
+Dem. Rep. Congo,Covid,1687973,10594438,0.888,8.73
+Denmark,Covid,355603,5764980,0.929,8.76
+Djibouti,Covid,12207,944100,0.476,28.38
+Dominica,Covid,3134,71460,0.715,22.48
+Dominican Republic,Covid,356042,10513111,0.736,24.19
+East Asia,Covid,356042,3206485623,0.736,24.19
+Eastern Europe,Covid,356042,2042693823,0.736,24.19
+Eastern Sub-Saharan Africa,Covid,356042,2042693823,0.736,24.19
+Ecuador,Covid,507020,16785356,0.752,21.65
+Egypt,Covid,298988,16785356,0.696,23
+El Salvador,Covid,102024,6388124,0.674,25.24
+England,Covid,102024,6388124,0.674,25.24
+Equatorial Guinea,Covid,11063,1262008,0.591,24.54
+Eritrea,Covid,6674,0,0.44,26.92
+Estonia,Covid,151881,1317384,0.871,6.31
+Eswatini,Covid,45395,1124808,0.588,20.79
+Ethiopia,Covid,333698,106399926,0.463,23.04
+Fiji,Covid,50270,877460,0.741,24.3
+Finland,Covid,138068,5508214,0.92,2.52
+France,Covid,6760265,66918020,0.901,11.69
+Gabon,Covid,28120,2064812,0.702,25.36
+Gambia,Covid,9888,2064812,0.46,27.97
+Georgia,Covid,602065,3728004,0.78,7.67
+Germany,Covid,4171666,82657002,0.936,9.63
+Ghana,Covid,125565,29121464,0.592,27.68
+Greece,Covid,638921,10754679,0.87,14.24
+Greenland,Covid,528,56172,0.87,-17.18
+Grenada,Covid,4356,110874,0.772,27.24
+Guam,Covid,52463,164281,0.772,27.24
+Guatemala,Covid,533744,16087418,0.65,23.67
+Guinea,Covid,30271,12067516,0.459,26.14
+Guinea-Bissau,Covid,6080,1828146,0.455,27.43
+Guyana,Covid,29824,775218,0.654,26.12
+Haiti,Covid,21453,10982367,0.498,25.13
+High SDI,Covid,21453,1200273639,0.498,25.13
+High-income,Covid,21453,1200273639,0.498,25.13
+High-income Asia Pacific,Covid,21453,1200273639,0.498,25.13
+High-middle SDI,Covid,21453,1200273639,0.498,25.13
+Honduras,Covid,360598,9429016,0.617,23.99
+Hungary,Covid,819547,9787966,0.838,11.15
+Iceland,Covid,11594,343400,0.935,2.31
+India,Covid,33563421,1338676779,0.64,24.68
+Indonesia,Covid,4201559,264650969,0.694,26.14
+Iran,Covid,4201559,83650969,0.798,26.14
+Iraq,Covid,1984399,37552789,0.685,22.58
+Ireland,Covid,379366,4807388,0.938,9.67
+Israel,Covid,1249328,8713300,0.903,20.51
+Italy,Covid,4645853,60536709,0.88,12.81
+Jamaica,Covid,80959,2920848,0.732,24.97
+Japan,Covid,1683965,126785797,0.909,11.13
+Jordan,Covid,816574,9785840,0.735,19.42
+Kazakhstan,Covid,944733,18037776,0.8,6.91
+Kenya,Covid,246643,50221146,0.59,25.09
+Kiribati,Covid,246643,114153,0.612,27.49
+Kuwait,Covid,411316,4056102,0.803,26.18
+Kyrgyzstan,Covid,178036,6198200,0.672,2.22
+Laos,Covid,19952,6953031,0.601,23.74
+Latin America and Caribbean,Covid,19952,618653508,0.601,23.74
+Latvia,Covid,152693,1942248,0.847,6.86
+Lebanon,Covid,619950,6819373,0.757,16
+Lesotho,Covid,14395,2091532,0.52,12.65
+Liberia,Covid,5915,4702224,0.435,25.69
+Libya,Covid,334049,6580723,0.706,22.64
+Lithuania,Covid,321243,2828403,0.858,7.43
+Low SDI,Covid,321243,614965124,0.858,7.43
+Low-middle SDI,Covid,321243,3194517542,0.858,7.43
+Luxembourg,Covid,77552,596336,0.904,10.02
+Madagascar,Covid,43570,25570511,0.519,22.65
+Malawi,Covid,61382,17670193,0.477,22.51
+Malaysia,Covid,2142924,31104655,0.802,25.75
+Maldives,Covid,84017,496398,0.717,27.8
+Mali,Covid,15075,18512429,0.427,28.83
+Malta,Covid,37036,467999,0.878,19.61
+Marshall Islands,Covid,4,58053,0.708,27.93
+Mauritania,Covid,35515,4282582,0.52,28.34
+Mauritius,Covid,14863,1264613,0.79,23.69
+Mexico,Covid,3585565,124777326,0.774,21.31
+Micronesia (country),Covid,3585565,124777326,0.627,21.31
+Middle SDI,Covid,3585565,5664768985,0.627,26.65
+Moldova,Covid,0,2755158,0.7,26.65
+Mongolia,Covid,287512,3113788,0.741,0.67
+Montenegro,Covid,127883,622373,0.814,9.19
+Morocco,Covid,923924,35581257,0.667,18.04
+Mozambique,Covid,150067,28649007,0.437,24.33
+Myanmar,Covid,453407,53382521,0.578,23.36
+Namibia,Covid,126900,2402623,0.647,20.56
+Nepal,Covid,788769,27632682,0.574,13.21
+Netherlands,Covid,1989805,17131296,0.931,10.4
+New Zealand,Covid,3779,4813600,0.917,10.11
+Nicaragua,Covid,10757,6384843,0.658,25.29
+Niger,Covid,5964,21602388,0.354,27.83
+Nigeria,Covid,202191,190873247,0.532,27.24
+,,,,,
+North America,Covid,202191,361731296,0.532,27.24
+North Korea,Covid,202191,361731296,0.532,27.24
+North Macedonia,Covid,188113,2081996,0.757,10.64
+Northern Ireland,Covid,0,2081996,0.757,10.64
+Northern Mariana Islands,Covid,0,56553,0.757,27.64
+Norway,Covid,184609,5276968,0.953,1.78
+Oceania,Covid,184609,0,0.953,1.78
+Oman,Covid,303512,4665926,0.821,26.04
+Pakistan,Covid,1230238,207906210,0.562,20.75
+Palestine,Covid,5,17809,0.686,28.04
+Panama,Covid,464781,4106764,0.789,25.4
+Papua New Guinea,Covid,19182,8438038,0.544,25.08
+Paraguay,Covid,459695,6867058,0.702,23.73
+Peru,Covid,2168431,31444299,0.75,19.7
+Philippines,Covid,2417419,105172921,0.699,25.82
+Poland,Covid,2900862,37974826,0.865,8.85
+Portugal,Covid,1064025,10300300,0.847,15.62
+Puerto Rico,Covid,1064025,3325286,0.847,24.93
+Qatar,Covid,235907,2724727,0.856,28.02
+Romania,Covid,1172981,19588715,0.811,9.86
+Russia,Covid,1172981,19588715,0.816,9.86
+Rwanda,Covid,95503,11980960,0.524,19.41
+Saint Lucia,Covid,10727,11980960,0.747,26.34
+Saint Vincent and the Grenadines,Covid,31,11980960,0.723,27.42
+Samoa,Covid,1,195358,0.713,27.59
+Sao Tome and Principe,Covid,3097,207086,0.589,23.2
+Saudi Arabia,Covid,546735,33101183,0.853,25.47
+Scotland,Covid,546735,33101183,0.853,25.47
+Senegal,Covid,73654,15419354,0.505,28.65
+Serbia,Covid,886543,7020858,0.787,11.28
+Seychelles,Covid,21180,95843,0.797,27.55
+Sierra Leone,Covid,6388,7488427,0.419,26.54
+Singapore,Covid,81356,5612253,0.932,27.6
+Slovakia,Covid,405931,5439232,0.855,8.34
+Slovenia,Covid,286267,2066388,0.896,9.58
+Solomon Islands,Covid,20,636030,0.546,25.61
+Somalia,Covid,19234,14589165,0.546,27.09
+South Africa,Covid,2884134,57009751,0.699,18.28
+South Asia,Covid,2884134,1792883164,0.699,18.28
+South Korea,Covid,2884134,1792883164,0.903,18.28
+S. Sudan,Covid,95503,11980960,0.524,19.41
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+Spain,Covid,4940824,46593236,0.891,13.93
+Sri Lanka,Covid,508672,21444000,0.77,27.28
+,,,,,
+Sudan,Covid,38077,40813398,0.502,27.74
+Suriname,Covid,38137,570501,0.72,26.07
+Sweden,Covid,1147879,10057698,0.933,2.62
+Switzerland,Covid,826706,8451840,0.944,6.08
+Syria,Covid,826706,8451840,0.536,6.08
+Taiwan,Covid,31426,17095669,0.536,18.58
+Tajikistan,Covid,17484,8880270,0.65,3.75
+Tanzania,Covid,17484,54660345,0.538,3.75
+Thailand,Covid,1524613,69209817,0.755,26.79
+Timor,Covid,1524613,69209817,0.625,26.79
+Togo,Covid,24655,7698476,0.503,27.38
+Tonga,Covid,24655,102002,0.726,24.58
+Trinidad and Tobago,Covid,48826,1384060,0.784,26.37
+Tropical Latin America,Covid,48826,1384060,0.784,26.37
+Tunisia,Covid,702503,11433438,0.735,20.34
+Turkey,Covid,6932453,81116451,0.791,11.66
+Turkmenistan,Covid,0,5757667,0.706,16.14
+Uganda,Covid,122405,41166588,0.516,23.34
+Ukraine,Covid,2370425,44831135,0.751,9.25
+United Arab Emirates,Covid,733643,9487206,0.863,27.63
+United Kingdom,Covid,733643,66058859,0.922,27.63
+United States of America,Covid,42163561,325122128,0.924,7.63
+,,,,,
+Uruguay,Covid,387922,3436645,0.804,17.93
+Uzbekistan,Covid,170520,32388600,0.71,13.34
+Vanuatu,Covid,3,285499,0.603,24.03
+Venezuela,Covid,3,285499,0.761,24.03
+Vietnam,Covid,718963,94600643,0.694,24.62
+Wales,Covid,718963,107281,0.694,24.62
+Western Europe,Covid,718963,4454805,0.694,24.62
+Western Sub-Saharan Africa,Covid,718963,4454805,0.694,24.62
+,,,,,
+Yemen,Covid,8789,7509410228,0.452,23.63
+Zambia,Covid,208502,16853608,0.588,22.27
+Zimbabwe,Covid,128186,14236599,0.535,21.83
+Afghanistan,Malaria,982618,36296111,0.498,13.57
+Albania,Malaria,0,2873457,0.785,12.03
+Algeria,Malaria,0,41389174,0.754,23.22
+American Samoa,Malaria,0,55617,0.754,23.22
+Andean Latin America,Malaria,0,55617,0.754,23.22
+Andorra,Malaria,0,76997,0.858,9.18
+Angola,Malaria,6825325,29816769,0.581,21.83
+Antigua and Barbuda,Malaria,0,95425,0.78,26.61
+Argentina,Malaria,0,44044811,0.825,14.55
+Armenia,Malaria,0,2944789,0.755,7.15
+Australasia,Malaria,0,105361,0.755,7.15
+Australia,Malaria,0,24601860,0.939,21.94
+Austria,Malaria,0,8797566,0.908,7.25
+Azerbaijan,Malaria,0,9854033,0.757,12.93
+Bahamas,Malaria,0,9854033,0.807,25.06
+Bahrain,Malaria,0,1494077,0.846,28.23
+Bangladesh,Malaria,311020,159685421,0.608,25.53
+Barbados,Malaria,0,286229,0.8,26.73
+Belarus,Malaria,0,9498264,0.808,7.5
+Belgium,Malaria,0,11375158,0.916,10.68
+Belize,Malaria,10,375775,0.708,25.59
+Benin,Malaria,4465137,11175192,0.515,27.93
+Bermuda,Malaria,0,63873,0.515,27.93
+Bhutan,Malaria,15,745563,0.612,11.98
+Bolivia,Malaria,13655,11192853,0.693,11.98
+Bosnia and Herzegovina,Malaria,0,3351534,0.768,10.24
+Botswana,Malaria,4524,2205076,0.717,22.22
+Brazil,Malaria,1087921,207833825,0.759,25.51
+Brunei,Malaria,0,29567,0.853,25.51
+Bulgaria,Malaria,0,7075947,0.813,11.31
+Burkina Faso,Malaria,7676215,19193236,0.423,28.71
+Burundi,Malaria,2709703,10827010,0.417,20.68
+Cambodia,Malaria,286622,16009413,0.582,27.51
+Cameroon,Malaria,6441846,24566070,0.556,24.87
+Canada,Malaria,0,36545295,0.926,-6.36
+Cape Verde,Malaria,0,36545295,0.654,-6.36
+Caribbean,Malaria,0,36545295,0.654,-6.36
+Central African Rep.,Malaria,1596323,63382,0.654,-6.36
+Central Asia,Malaria,1596323,4596023,0.367,25.31
+Central Europe,Malaria,1596323,4596023,0.367,25.31
+"Central Europe, Eastern Europe, and Central Asia",Malaria,0,102740078,0.367,25.31
+Central Latin America,Malaria,0,102740078,0.367,25.31
+Central Sub-Saharan Africa,Malaria,0,102740078,0.367,25.31
+Chad,Malaria,2587410,15016761,0.404,27.37
+Chile,Malaria,0,18470435,0.843,8.71
+China,Malaria,0,1386395000,0.752,7.1
+Colombia,Malaria,365703,48909844,0.747,24.79
+Comoros,Malaria,3230,813890,0.503,24.52
+Congo,Malaria,3230,813890,0.606,24.85
+Costa Rica,Malaria,34,4949955,0.794,24.85
+Cote d'Ivoire,Malaria,8855281,24437475,0.492,26.76
+Croatia,Malaria,0,4124531,0.831,11.66
+Cuba,Malaria,0,11339255,0.777,25.83
+Cyprus,Malaria,0,1179685,0.869,19.63
+Czechia,Malaria,0,10594438,0.888,8.73
+Dem. Rep. Congo,Malaria,0,10594438,0.888,8.73
+Denmark,Malaria,0,5764980,0.929,8.76
+Djibouti,Malaria,19563,944100,0.476,28.38
+Dominica,Malaria,0,71460,0.715,22.48
+Dominican Republic,Malaria,634,10513111,0.736,24.19
+East Asia,Malaria,46855849,3206485623,0.736,24.19
+Eastern Europe,Malaria,7251765,2042693823,0.736,24.19
+Eastern Sub-Saharan Africa,Malaria,7251765,2042693823,0.736,24.19
+Ecuador,Malaria,43754,16785356,0.752,21.65
+Egypt,Malaria,43754,16785356,0.696,23
+El Salvador,Malaria,0,6388124,0.674,25.24
+England,Malaria,0,6388124,0.674,25.24
+Equatorial Guinea,Malaria,360585,1262008,0.591,24.54
+Eritrea,Malaria,0,0,0.44,26.92
+Estonia,Malaria,0,1317384,0.871,6.31
+Eswatini,Malaria,2586,1124808,0.588,20.79
+Ethiopia,Malaria,3909285,106399926,0.463,23.04
+Fiji,Malaria,0,877460,0.741,24.3
+Finland,Malaria,0,5508214,0.92,2.52
+France,Malaria,0,66918020,0.901,11.69
+Gabon,Malaria,524958,2064812,0.702,25.36
+Gambia,Malaria,524958,2064812,0.46,27.97
+Georgia,Malaria,0,3728004,0.78,7.67
+Germany,Malaria,0,82657002,0.936,9.63
+Ghana,Malaria,6190041,29121464,0.592,27.68
+Greece,Malaria,0,10754679,0.87,14.24
+Greenland,Malaria,0,56172,0.87,-17.18
+Grenada,Malaria,0,110874,0.772,27.24
+Guam,Malaria,0,164281,0.772,27.24
+Guatemala,Malaria,5518,16087418,0.65,23.67
+Guinea,Malaria,3759396,12067516,0.459,26.14
+Guinea-Bissau,Malaria,143200,1828146,0.455,27.43
+Guyana,Malaria,25235,775218,0.654,26.12
+Haiti,Malaria,39039,10982367,0.498,25.13
+High SDI,Malaria,0,1200273639,0.498,25.13
+High-income,Malaria,0,1200273639,0.498,25.13
+High-income Asia Pacific,Malaria,0,1200273639,0.498,25.13
+High-middle SDI,Malaria,0,1200273639,0.498,25.13
+Honduras,Malaria,2071,9429016,0.617,23.99
+Hungary,Malaria,0,9787966,0.838,11.15
+Iceland,Malaria,0,343400,0.935,2.31
+India,Malaria,10003762,1338676779,0.64,24.68
+Indonesia,Malaria,1792690,264650969,0.694,26.14
+Iran,Malaria,1792690,83650969,0.798,26.14
+Iraq,Malaria,0,37552789,0.685,22.58
+Ireland,Malaria,0,4807388,0.938,9.67
+Israel,Malaria,0,8713300,0.903,20.51
+Italy,Malaria,0,60536709,0.88,12.81
+Jamaica,Malaria,0,2920848,0.732,24.97
+Japan,Malaria,0,126785797,0.909,11.13
+Jordan,Malaria,0,9785840,0.735,19.42
+Kazakhstan,Malaria,0,18037776,0.8,6.91
+Kenya,Malaria,3520384,50221146,0.59,25.09
+Kiribati,Malaria,0,114153,0.612,27.49
+Kuwait,Malaria,0,4056102,0.803,26.18
+Kyrgyzstan,Malaria,0,6198200,0.672,2.22
+Laos,Malaria,39122,6953031,0.601,23.74
+Latin America and Caribbean,Malaria,4275087,618653508,0.601,23.74
+Latvia,Malaria,0,1942248,0.847,6.86
+Lebanon,Malaria,0,6819373,0.757,16
+Lesotho,Malaria,0,2091532,0.52,12.65
+Liberia,Malaria,1886107,4702224,0.435,25.69
+Libya,Malaria,0,6580723,0.706,22.64
+Lithuania,Malaria,0,2828403,0.858,7.43
+Low SDI,Malaria,125686383,614965124,0.858,7.43
+Low-middle SDI,Malaria,145389450,3194517542,0.858,7.43
+Luxembourg,Malaria,0,596336,0.904,10.02
+Madagascar,Malaria,1934794,25570511,0.519,22.65
+Malawi,Malaria,3821420,17670193,0.477,22.51
+Malaysia,Malaria,2125,31104655,0.802,25.75
+Maldives,Malaria,0,496398,0.717,27.8
+Mali,Malaria,7160192,18512429,0.427,28.83
+Malta,Malaria,0,467999,0.878,19.61
+Marshall Islands,Malaria,0,58053,0.708,27.93
+Mauritania,Malaria,237631,4282582,0.52,28.34
+Mauritius,Malaria,0,1264613,0.79,23.69
+Mexico,Malaria,34717,124777326,0.774,21.31
+Micronesia (country),Malaria,34717,124777326,0.627,21.31
+Middle SDI,Malaria,201846221,5664768985,0.627,26.65
+Moldova,Malaria,0,2755158,0.7,26.65
+Mongolia,Malaria,0,3113788,0.741,0.67
+Montenegro,Malaria,0,622373,0.814,9.19
+Morocco,Malaria,0,35581257,0.667,18.04
+Mozambique,Malaria,9350958,28649007,0.437,24.33
+Myanmar,Malaria,202888,53382521,0.578,23.36
+Namibia,Malaria,112321,2402623,0.647,20.56
+Nepal,Malaria,10693,27632682,0.574,13.21
+Netherlands,Malaria,0,17131296,0.931,10.4
+New Zealand,Malaria,0,4813600,0.917,10.11
+Nicaragua,Malaria,31766,6384843,0.658,25.29
+Niger,Malaria,7702777,21602388,0.354,27.83
+Nigeria,Malaria,54029359,190873247,0.532,27.24
+,,,,,
+North America,Malaria,0,361731296,0.532,27.24
+North Korea,Malaria,0,361731296,0.532,27.24
+North Macedonia,Malaria,0,2081996,0.757,10.64
+Northern Ireland,Malaria,0,2081996,0.757,10.64
+Northern Mariana Islands,Malaria,0,56553,0.757,27.64
+Norway,Malaria,0,5276968,0.953,1.78
+Oceania,Malaria,0,0,0.953,1.78
+Oman,Malaria,0,4665926,0.821,26.04
+Pakistan,Malaria,987674,207906210,0.562,20.75
+Palestine,Malaria,0,17809,0.686,28.04
+Panama,Malaria,828,4106764,0.789,25.4
+Papua New Guinea,Malaria,1500657,8438038,0.544,25.08
+Paraguay,Malaria,0,6867058,0.702,23.73
+Peru,Malaria,184637,31444299,0.75,19.7
+Philippines,Malaria,32174,105172921,0.699,25.82
+Poland,Malaria,0,37974826,0.865,8.85
+Portugal,Malaria,0,10300300,0.847,15.62
+Puerto Rico,Malaria,0,3325286,0.847,24.93
+Qatar,Malaria,0,2724727,0.856,28.02
+Romania,Malaria,0,19588715,0.811,9.86
+Russia,Malaria,0,19588715,0.816,9.86
+Rwanda,Malaria,6449821,11980960,0.524,19.41
+Saint Lucia,Malaria,6449821,11980960,0.747,26.34
+Saint Vincent and the Grenadines,Malaria,6449821,11980960,0.723,27.42
+Samoa,Malaria,0,195358,0.713,27.59
+Sao Tome and Principe,Malaria,2239,207086,0.589,23.2
+Saudi Arabia,Malaria,2209,33101183,0.853,25.47
+Scotland,Malaria,2209,33101183,0.853,25.47
+Senegal,Malaria,807277,15419354,0.505,28.65
+Serbia,Malaria,0,7020858,0.787,11.28
+Seychelles,Malaria,0,95843,0.797,27.55
+Sierra Leone,Malaria,2726766,7488427,0.419,26.54
+Singapore,Malaria,0,5612253,0.932,27.6
+Slovakia,Malaria,0,5439232,0.855,8.34
+Slovenia,Malaria,0,2066388,0.896,9.58
+Solomon Islands,Malaria,104527,636030,0.546,25.61
+Somalia,Malaria,541768,14589165,0.546,27.09
+South Africa,Malaria,225170,57009751,0.699,18.28
+South Asia,Malaria,13160863,1792883164,0.699,18.28
+South Korea,Malaria,13160863,1792883164,0.903,18.28
+S. Sudan,Malaria,6449821,11980960,0.524,19.41
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+Spain,Malaria,0,46593236,0.891,13.93
+Sri Lanka,Malaria,0,21444000,0.77,27.28
+,,,,,
+Sudan,Malaria,1908105,40813398,0.502,27.74
+Suriname,Malaria,271,570501,0.72,26.07
+Sweden,Malaria,0,10057698,0.933,2.62
+Switzerland,Malaria,0,8451840,0.944,6.08
+Syria,Malaria,0,8451840,0.536,6.08
+Taiwan,Malaria,0,17095669,0.536,18.58
+Tajikistan,Malaria,0,8880270,0.65,3.75
+Tanzania,Malaria,6775567,54660345,0.538,3.75
+Thailand,Malaria,65952,69209817,0.755,26.79
+Timor,Malaria,65952,69209817,0.625,26.79
+Togo,Malaria,2141714,7698476,0.503,27.38
+Tonga,Malaria,0,102002,0.726,24.58
+Trinidad and Tobago,Malaria,0,1384060,0.784,26.37
+Tropical Latin America,Malaria,0,1384060,0.784,26.37
+Tunisia,Malaria,0,11433438,0.735,20.34
+Turkey,Malaria,0,81116451,0.791,11.66
+Turkmenistan,Malaria,0,5757667,0.706,16.14
+Uganda,Malaria,13863230,41166588,0.516,23.34
+Ukraine,Malaria,0,44831135,0.751,9.25
+United Arab Emirates,Malaria,0,9487206,0.863,27.63
+United Kingdom,Malaria,0,66058859,0.922,27.63
+United States of America,Malaria,0,325122128,0.924,7.63
+,,,,,
+Uruguay,Malaria,0,3436645,0.804,17.93
+Uzbekistan,Malaria,0,32388600,0.71,13.34
+Vanuatu,Malaria,2266,285499,0.603,24.03
+Venezuela,Malaria,2266,285499,0.761,24.03
+Vietnam,Malaria,7437,94600643,0.694,24.62
+Wales,Malaria,0,107281,0.694,24.62
+Western Europe,Malaria,0,4454805,0.694,24.62
+Western Sub-Saharan Africa,Malaria,0,4454805,0.694,24.62
+,,,,,
+Yemen,Malaria,442967994,7509410228,0.452,23.63
+Zambia,Malaria,2697352,16853608,0.588,22.27
+Zimbabwe,Malaria,1545383,14236599,0.535,21.83
