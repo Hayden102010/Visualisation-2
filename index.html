@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <!-- Import Vega & Vega-Lite (does not have to be from CDN) -->
+  <script src="https://cdn.jsdelivr.net/npm/vega@5.20.2"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-lite@5.1.0"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.17.0"></script>
+  
+ <!-- Import pure.css -->
+ <link rel="stylesheet" href="https://unpkg.com/purecss@2.0.3/build/pure-min.css" integrity="sha384-cg6SkqEOCV1NbJoCu11+bm0NvBRc8IYLRGXkmNrqUBfTjmMYwNKPWBTIKyw9mHNJ" crossorigin="anonymous">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+  <!-- CSS file -->
+  <link rel="stylesheet" type="text/css" href="styles.css" media="all">
+
+</head>
+<body>
+
+  <div class="page">
+
+        <!-- pure grid group -->
+        <div class="pure-g">
+          <div class="pure-u-2-24"></div>
+          <div class="pure-u-20-24">
+            <div class="description description-left">
+              <h1>Comparing the Global Impact of COVID-19 and Malaria</h1>
+            </div>
+          </div>
+          <div class="pure-u-2-24"></div>
+      </div>
+      <!-- end pure grid group -->
+
+    <!-- pure grid group -->
+    <div class="pure-g">
+      <div class="pure-u-1-1">
+        <div class="description description-left">
+          <p>There are many factors that define a disease and its ability to spread, these include both characteristics of the disease itself and the environment in which it spreads. This visualisation will explore Malaria, a long-existing virus that spreads predominantly via mosquitos and COVID-19, a virus that has only recently arisen that will spread from person to person via droplets. The environmental factors that will be discussed include country population, Human Development Index, and average temperature. The data used in these visualisations is an accumulated total up to current for COVID-19 and  from 2017 for Malaria.</p>
+        </div>
+      </div>
+  </div>
+  <!-- end pure grid group -->
+
+        <!-- pure grid group -->
+        <div class="pure-g">
+          <div class="pure-u-1-1">
+            <div class="description description-left">
+              <h2>Global distribution</h2>
+            </div>
+          </div>
+      </div>
+      <!-- end pure grid group -->
+
+          <!-- pure grid group -->
+    <div class="pure-g">
+      <div class="pure-u-1-1">
+        <div class="description description-left">
+          <p>The maps below depict the vast difference in contagion zones for COVID-19 and Malaria. While the incidence and mortality rates for Malaria are concentrated in the African region, that of COVID-19 are distributed largely across the globe. It is also important to consider that COVID-19 is a new disease and the ability to provide testing equipment to some third world regions is limited. This means that the incidence and mortality data for these regions may be inaccurate. It should also be considered that Malaria has been pre-existing since for a long period and that developed countries have had the opportunity to limit tramsmission via vaccination.</p>
+        </div>
+      </div>
+  </div>
+  <!-- end pure grid group -->
+
+      <!-- pure grid group -->
+      <div class="pure-g">
+        <div class="pure-u-1-2">
+          <div class="left-map">
+          <div id="covid_mortality_mapv2"  class="vis-container"></div>
+          </div>
+        </div>
+          <div class="pure-u-1-2">
+            <div class="right-map">
+            <div id="malaria_mortalityv4_map"  class="vis-container"></div>
+          </div>
+        </div>
+
+      
+    </div>
+    <!-- end pure grid group -->
+
+            <!-- pure grid group -->
+            <div class="pure-g">
+              <div class="pure-u-1-1">
+                <div class="description description-left">
+                  <h2>Population</h2>
+                </div>
+              </div>
+          </div>
+          <!-- end pure grid group -->
+
+    <!-- pure grid group -->
+    <div class="pure-g">
+      <div class="pure-u-1-2">
+        <div id="population_chart"  class="vis-container"></div>
+      </div>
+      <div class="pure-u-1-2">
+        <div class="description description-right">
+          <p>While population is critical in determining the infection rate of contagious diseases such as COVID-19, it has no direct correlation for the infection rate of Malaria. As can be seen in the ‘Population’ bar chart, for COVID-19 there is a distinctive increase in the incidence of the virus as the population increases. However, by toggling the drop-down box to see the data for Malaria, there is no clear or consistent pattern between population and incidence with data spikes in all population ranges.</p>
+        </div>
+      </div>
+    
+  </div>
+  <!-- end pure grid group -->
+
+      <!-- end pure grid group -->
+
+            <!-- pure grid group -->
+            <div class="pure-g">
+              <div class="pure-u-1-1">
+                <div class="description description-left">
+                  <h2>Human Development Index</h2>
+                </div>
+              </div>
+          </div>
+          <!-- end pure grid group -->
+
+    <!-- pure grid group -->
+    <div class="pure-g">
+      <div class="pure-u-1-2">
+        <div id="HDI_chart"  class="vis-container"></div>
+      </div>
+      <div class="pure-u-1-2">
+        <div class="description description-right">
+          <p>The Human Development Index is a measure of a country’s achievements in the categories of health, knowledge, and standard of living. For COVID-19 majority of the cases are in the region of HDI greater than 0.6, however for Malaria they are in the region of HDI less than 0.6. This again is likely due to how long each disease has existed. For Malaria, the countries with better hygiene and healthcare have had the time to understand and control Malaria by vaccination. However, COVID-19 being a new disease the effects of vaccination and herd immunity have not yet had the chance to present in available data.</p>
+        </div>
+      </div>
+    
+  </div>
+  <!-- end pure grid group -->
+
+       <!-- end pure grid group -->
+
+            <!-- pure grid group -->
+            <div class="pure-g">
+              <div class="pure-u-1-1">
+                <div class="description description-left">
+                  <h2>Temperature</h2>
+                </div>
+              </div>
+          </div>
+          <!-- end pure grid group -->
+
+    <!-- pure grid group -->
+    <div class="pure-g">
+      <div class="pure-u-1-2">
+        <div id="temperature_chart"  class="vis-container"></div>
+      </div>
+      <div class="pure-u-1-2">
+        <div class="description description-right">
+          <p>Temperature is a defining factor in infection rate, specifically for Malaria. This is due to the disease relying on an abundance of mosquitos for transmission, which habituate warmer climates. In the dot plot for COVID-19 there is a distribution of cases over most temperature ranges, this is due to covid being spread from person to person and not relying as much on environmental factor. However, as shown in the dot plot for Malaria there are predominantly cases in countries with warmer climates where mosquitos are prevalent.</p>
+        </div>
+      </div>
+    
+  </div>
+  <!-- end pure grid group -->
+
+  <div class="pure-g">
+    <div class="pure-u-1-1 small-font">
+      <p1>This visualisation is created by <a href="https://github.com/Hayden102010" target="_blank">Hayden Buntine</a>. The datasource is <a href="https://data.worldbank.org/indicator/SH.MLR.INCD.P3"" target="_blank">The World Bank</href></a> and <a href="https://covid19.who.int/table"" target="_blank">World Health Organisation</href>.</p1>
+    </div>
+  </div>
+
+
+</div> <!-- end page -->
+  
+
+
+
+<div id="temperature_chart"></div>
+
+<div id="HDI_chart"></div>
+<p1></p1>
+
+<script type="text/javascript">
+
+  var spec2 = "covid_mortality_mapv2.vg.json";
+  vegaEmbed('#covid_mortality_mapv2', spec2, {"actions": false}).then(function(result) {
+    // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+  }).catch(console.error);
+
+  var spec2 = "malaria_mortalityv4_map.vg.json";
+  vegaEmbed('#malaria_mortalityv4_map', spec2, {"actions": false}).then(function(result) {
+    // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+  }).catch(console.error);
+
+  var spec2 = "population_chart.vg.json";
+  vegaEmbed('#population_chart', spec2, {"actions": false}).then(function(result) {
+    // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+  }).catch(console.error);
+
+  var spec2 = "HDI_chart.vg.json";
+  vegaEmbed('#HDI_chart', spec2, {"actions": false}).then(function(result) {
+    // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+  }).catch(console.error);
+
+  var spec2 = "temperature_chart.vg.json";
+  vegaEmbed('#temperature_chart', spec2, {"actions": false}).then(function(result) {
+    // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+  }).catch(console.error);
+</script>
+
+</body>
+</html>
